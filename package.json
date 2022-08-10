@@ -1,0 +1,10 @@
+{
+  "name": "sheree-cp02",
+  "description": "example file for trello cp02",
+  "authors": "sheree",
+  "version": "1.0.0",
+  "main": "pathToMain",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
